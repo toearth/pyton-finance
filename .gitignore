@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+# Built application files
+# Files for the ART/Dalvik VM
+*.dex
+
+# OSX
+.DS_Store
+
+# Intellij
+*.iml
+.idea
